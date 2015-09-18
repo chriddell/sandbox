@@ -1,0 +1,13 @@
+html {
+  font-family: 'Brandon Grotesque';
+}
+
+body {
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+li {
+  margin: 1.5em 0;
+}
